@@ -4,7 +4,7 @@
 
 ## Посилання
 - **Макет Figma:** [https://www.figma.com/design/M1pjTLWDolBimF2OT4IhtA/MiamiHistoryProject?node-id=0-1&t=vtme68wUe0HaKeXE-1]
-- **GitHub Pages:** [SAMPLE.TEXT]
+- **GitHub Pages:** [https://st9835448-eng.github.io/Miami-History/]
 
 ## Виконані вимоги
 - [x] Використання семантичної HTML-розмітки.
